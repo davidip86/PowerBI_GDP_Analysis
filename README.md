@@ -1,10 +1,10 @@
 # GDP (Gross Domestic Product) Analysis using Power BI
 
 ## Scenario
-Presume you work as a Data Analyst in the Development Indicators Sector of the World Bank. You are responsible for analysing economic performance, comparing GDP of countries, and predicting economic trends from a data set includes information about annual GDP % change for various countries and regions since 1961.
+Working as a Data Analyst in the Development Indicators Sector of the World Bank, I am responsible for analysing economic performance, comparing GDP of countries, and predicting economic trends from a data set includes information about annual GDP % change for various countries and regions between 1961-2022. The dataset is provided by the Organisation for Economic Co-operation and Development (OECD). 
 
 ## Task
-Analyse the .csv data source files provided and create a report using Power BI using a variety of appropriate visualisations. The dataset is provided by the OECD and covers regions and countries over the years 1961-2022 where records exist. 
+Analyse the .csv data source files provided and create a report using Power BI using a variety of appropriate visualisations. 
 
 ## Insights
 Using the Power BI dashboards I've created you can dynamically filter and interogate the data, filtering where applicable by region, country, income group (as categorised by the OECD) and year. Some of the insights seen in the following snapshots include:
